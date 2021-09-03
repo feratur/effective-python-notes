@@ -1,3 +1,5 @@
+# Item 4: Prefer Interpolated F-Strings Over C-style Format Strings and str.format
+
 # % formatting operator (The syntax for format specifiers comes from C’s printf function)
 # The predefined text template is provided on the left side of the operator
 # in a format string. The values to insert into the template are provided as

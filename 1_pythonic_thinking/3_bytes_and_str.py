@@ -1,3 +1,5 @@
+# Item 3: Know the Differences Between bytes and str
+
 a = b'h\x65llo'
 print(list(a))
 print(a)

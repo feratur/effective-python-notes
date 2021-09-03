@@ -1,3 +1,5 @@
+# Item 1: Know Which Version of Python You’re Using
+
 import sys
 print(sys.version_info)
 print(sys.version)

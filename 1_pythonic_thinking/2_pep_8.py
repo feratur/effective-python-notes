@@ -1,3 +1,5 @@
+# Item 2: Follow the PEP 8 Style Guide
+
 # ■ Use spaces instead of tabs for indentation.
 #  ■ Use four spaces for each level of syntactically significant indenting.
 #  ■ Lines should be 79 characters in length or less.
