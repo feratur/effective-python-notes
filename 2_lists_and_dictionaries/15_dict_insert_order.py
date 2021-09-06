@@ -79,4 +79,4 @@ class SortedDict(MutableMapping):
 # will be preserved.
 # ✦ There are three ways to be careful about dictionary-like classes: Write code
 # that doesn’t rely on insertion ordering, explicitly check for the dict type at
-# runtime, or require dict values using type anno- tations and static analysis.
+# runtime, or require dict values using type annotations and static analysis (mypy).
