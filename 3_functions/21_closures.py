@@ -123,7 +123,6 @@ sorter = Sorter(group)
 numbers.sort(key=sorter)
 assert sorter.found is True
 
-
 # ✦ Closure functions can refer to variables from any of the scopes in which they
 # were defined.
 # ✦ By default, closures can’t affect enclosing scopes by assigning variables.
